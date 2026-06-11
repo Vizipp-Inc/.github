@@ -45,5 +45,3 @@ We serve clients across industries — from education and corporate sectors to g
 📧 Email: `hr@vizipp.com`
 
 🌐 Website: https://www.vizipp.com/
-
----
