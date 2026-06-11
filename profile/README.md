@@ -42,6 +42,6 @@ We serve clients across industries — from education and corporate sectors to g
 | US Headquarters | 405 State Hwy 121, Lewisville, TX 75067, USA |
 | India Offices | Nashik & Mumbai (Maharashtra), Surat (Gujarat), Visakhapatnam (Andhra Pradesh) |
 
-📧 Email: `hr@vizipp.com`
+📧 Email: [hr@vizipp.com](mailto:hr@vizipp.com)
 
 🌐 Website: https://www.vizipp.com/
