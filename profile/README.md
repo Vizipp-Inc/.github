@@ -24,35 +24,6 @@ We serve clients across industries — from education and corporate sectors to g
 
 ---
 
-## 🌟 Core Capabilities
-
-### 🤖 Digital & AI-Driven Solutions
-- AI-powered automation platforms
-- Predictive analytics and decision support
-- Machine learning integration for business intelligence
-
-### 💻 Software & Web Development
-- Custom web applications
-- Responsive and user-centric website builds
-- Scalable enterprise-grade backend systems
-
-### 📱 Mobile App Development
-- iOS, Android & cross-platform applications
-- Seamless user experience design
-- Fast deployment using robust frameworks
-
-### 📊 Data Analytics & BI
-- Descriptive, predictive & prescriptive analytics
-- Real-time dashboards and visual reporting
-- Insights to drive strategic decisions
-
-### 🛠 DevOps & Automation
-- CI/CD pipelines and infrastructure automation
-- Monitoring, logging & security integration
-- Containerization and orchestration (Docker, Kubernetes)
-
----
-
 ## 💼 Industries We Work With
 
 | Sector | Solutions |
@@ -64,27 +35,16 @@ We serve clients across industries — from education and corporate sectors to g
 
 ---
 
-## 👥 Leadership & Team
-
-Vizipp's team blends software engineering, design, technology strategy, and business consulting to build solutions that matter. With a presence in the U.S. and India, we bring global expertise with a local perspective.
-
----
-
 ## 📍 Contact & Presence
 
 | Location | Address |
 |----------|---------|
-| 🇺🇸 Headquarters | 405 State Hwy 121, Lewisville, TX 75067, USA |
-| 🇮🇳 India Offices | Nashik & Mumbai (Maharashtra), Surat (Gujarat), Visakhapatnam (Andhra Pradesh) |
+| US Headquarters | 405 State Hwy 121, Lewisville, TX 75067, USA |
+| India Offices | Nashik & Mumbai (Maharashtra), Surat (Gujarat), Visakhapatnam (Andhra Pradesh) |
 
 📧 Email: `hr@vizipp.com`
+
 🌐 Website: https://www.vizipp.com/
-
----
-
-## 📬 Join the Journey
-
-We're always exploring new ideas, building exciting technologies, and growing our community. Visit our repositories, contribute to open source, or connect with us online!
 
 ---
 
@@ -92,8 +52,4 @@ We're always exploring new ideas, building exciting technologies, and growing ou
   <a href="https://www.vizipp.com/">🌐 Website</a> &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/company/vizipp-global">💼 LinkedIn</a> &nbsp;•&nbsp;
   <a href="https://www.instagram.com/vizipp_group/">📸 Instagram</a>
-</p>
-
-<p align="center">
-  Made with 💡 by the Vizipp Team
 </p>
