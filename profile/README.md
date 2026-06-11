@@ -47,9 +47,3 @@ We serve clients across industries — from education and corporate sectors to g
 🌐 Website: https://www.vizipp.com/
 
 ---
-
-<p align="center">
-  <a href="https://www.vizipp.com/">🌐 Website</a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/company/vizipp-global">💼 LinkedIn</a> &nbsp;•&nbsp;
-  <a href="https://www.instagram.com/vizipp_group/">📸 Instagram</a>
-</p>
